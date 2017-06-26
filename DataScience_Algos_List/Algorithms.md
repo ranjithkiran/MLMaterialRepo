@@ -51,4 +51,4 @@ These are some Machine Learning and Data Mining algorithms and models help you t
  
 **Also,you can  find most data mining algorithms in [WEKA](http://www.cs.waikato.ac.nz/ml/weka/) program easily **
 
-
+https://www.quora.com/What-are-the-top-10-data-mining-or-machine-learning-algorithms/answer/Xavier-Amatriain
