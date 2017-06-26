@@ -117,6 +117,8 @@ Each entry provides the expected audience for the certain book (beginner, interm
 * [Social and Economic Networks: Models and Analysis] (https://class.coursera.org/networksonline-001/class) - Matthew O. Jackson (Coursera) - `Intermediate`
 * [Social Network Analysis] (https://class.coursera.org/sna-003/class) - Lada Adamic (Coursera) - `Intermediate`
 
+https://dzone.com/articles/35-free-online-books-machine
+
 
 
 
